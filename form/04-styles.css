@@ -872,3 +872,13 @@ label {
     font-size: 1.4rem;
     padding: 0 0 .5rem;
 }
+
+input [type=text],
+input[type=email],
+textarea {
+    position: relative;
+    width: 100%;
+    padding: 1.2rem;
+    line-height: 1;
+
+}
