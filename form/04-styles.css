@@ -881,7 +881,7 @@ textarea {
     padding: 1.2rem;
     line-height: 1;
     border: .1rem solid var(--color-black);
-    background-color: color-white;
+    background-color: white;
     box-shadow: none;
     outline: 0;
 }
@@ -894,7 +894,7 @@ input[type=email] {
 input[type=text]:focus,
 input[type=email]:focus,
 textarea:focus {
-    border: .1rem solid color-grey;
+    border: .1rem solid grey;
     background-color: lightgray;
 }
 
